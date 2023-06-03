@@ -1,3 +1,6 @@
+![](cdn/obi-wan.gif)
+
+
 ### About Suyash Singh (Not Your Average Machine Learning Engineer)
 - 🌱 I'm a ML Engineer who empowers the potential of big data. With an unyielding passion for cutting edge technologies and a proven track record of delivering groundbreaking solutions, I thrive in the realm of Big Data Analytics, ML and Deep Learning. I bring a unique blend of technical prowess, innovation, and an insatiable drive to conquer the most complex challenges in the field. 
 
