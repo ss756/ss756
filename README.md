@@ -8,7 +8,7 @@
 - 🧑‍🎓 Over the course of my career, I have been actively involved in the development and deployment of cutting edge machine learning models. I have a deep understanding of the intricacies involved in computer vision and natural language processing, enabling me to build advanced systems for image analysis, Object Detection and Information Extraction 
 
 
-- 🖥️ Aditionally, my expertise in Natural Language Processing empowers me to work with textual data, performing tasks such as Sentimental Analysis, Named Entity Recognition, Unsupervised Text Extraction from PDF Documents, Closed-Domain Question-Answering using SOTA Models. I am excited about leveraging the power of NLP to uncover meaningful 
+- 🖥️ Aditionally, my expertise in Natural Language Processing empowers me to work with textual data, performing tasks such as Sentimental Analysis, Named Entity Recognition, Unsupervised Text Extraction from PDF Documents, Closed-Domain Question-Answering using SOTA Models. I am excited about leveraging the power of NLP to uncover meaningful patterns and insights from unstructured text data.
 
 
 
