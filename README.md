@@ -4,7 +4,6 @@
 - 🔭 Currently working in the field of Machine Learning and Software Development. I am passionate and results driven machine-learning engineer with expertise in computer vision, natural language processing and document intelligence. With a strong background in developing and deploying machine learning products at scale, I am dedicated to solving complex problems our society faces today and extracting valuable insights from data. 
 -:male-student: Over the course of my career, I have been actively involved in the development and deployment of cutting edge machine learning models. I have a deep understanding of the intricacies involved in computer vision and natural language processing, enabling me to build advanced systems for image analysis, Object Detection and information extraction 
 - :desktop_computer: Aditionally, my expertise in Natural Language Processing empowers me to work with textual data, performing tasks such as Sentimental Analysis, Named Entity Recognition, Unsupervised Text Extraction from PDF Documents, Closed-Domain Question-Answering using SOTA Models. I am excited about leveraging the power of NLP to uncover meaningful 
-- 
 
 
 
