@@ -2,6 +2,8 @@
 - 🌱 I'm a ML Engineer who empowers the potential of big data. With an unyielding passion for cutting edge technologies and a proven track record of delivering groundbreaking solutions, I thrive in the realm of Big Data Analytics, ML and Deep Learning. I bring a unique blend of technical prowess, innovation, and an insatiable drive to conquer the most complex challenges in the field. 
 
 
+## Tools and Skillset
+
 - 🔭 Currently working in the field of Machine Learning and Software Development. I am passionate and results driven machine-learning engineer with expertise in computer vision, natural language processing and document intelligence. With a strong background in developing and deploying machine learning products at scale, I am dedicated to solving complex problems our society faces today and extracting valuable insights from data.
 
 
