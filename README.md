@@ -12,6 +12,8 @@
 
 - 🖥️ Aditionally, my expertise in Natural Language Processing empowers me to work with textual data, performing tasks such as Sentimental Analysis, Named Entity Recognition, Unsupervised Text Extraction from PDF Documents, Closed-Domain Question-Answering using SOTA Models. I am excited about leveraging the power of NLP to uncover meaningful patterns and insights from unstructured text data.
 
+- 📫 How to reach me(E-mail): sxs200326@utdallas.edu 
+
 
 ## Tools and Skillset
 
@@ -34,7 +36,7 @@
 <!--
 
 
-- 📫 How to reach me(E-mail): sxs200326@utdallas.edu
+
 **ss756/ss756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
