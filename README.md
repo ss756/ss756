@@ -2,7 +2,7 @@
 
 
 ### About Suyash Singh (Not Your Average Machine Learning Engineer)
-- 🌱 I'm a ML Engineer who empowers the potential of Big Data and analytics.
+- 🌱 I'm a ML Engineer who empowers the potential of Big Data and Analytics.
 
 
 - 🔭 Currently working in the field of Machine Learning and Software Development. I am passionate and results driven machine-learning engineer with expertise in computer vision, natural language processing and document intelligence.
