@@ -15,7 +15,7 @@
 - 📫 How to reach me(E-mail): sxs200326@utdallas.edu 
 
 
-## Tools and Skillset
+## Tools and Skillsets
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
