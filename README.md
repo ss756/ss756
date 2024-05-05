@@ -12,7 +12,7 @@
 
 - 🖥️ My expertise in Natural Language Processing empowers me to work with textual data, performing tasks such as Sentimental Analysis, Named Entity Recognition, Unsupervised Text Extraction from PDF Documents, Closed-Domain Question-Answering using SOTA Models. I am excited about leveraging the power of NLP to uncover meaningful patterns and insights from unstructured text data.
 
-- 📫 How to reach me(E-mail): sxs200326@utdallas.edu 
+- 📫 How to reach me(E-mail): suyashsingh936@gmail.com
 
 
 ## Tools and Skillsets
