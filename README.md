@@ -1,10 +1,6 @@
 <div align="center">
 
 <!-- BazaarNow Logo (inline SVG) -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 44" width="220" height="44">
-  <text x="0" y="32" font-family="'Poppins','Segoe UI',sans-serif" font-size="30" font-weight="500" fill="#3aaa35" letter-spacing="-0.5">bazaar<tspan font-weight="700" fill="#1f8a3b">now</tspan></text>
-</svg>
-  <text x="0" y="32" font-family="'Poppins','Segoe UI',sans-serif" font-size="30" font-weight="500" fill="#3aaa35" letter-spacing="-0.5">bazaar<tspan font-weight="700" fill="#1f8a3b">now</tspan></text>
 </svg><img width="220" height="44" alt="logo" src="https://github.com/user-attachments/assets/c1fada47-1539-4a42-835d-a09321ee8a87" />
 
 
