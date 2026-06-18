@@ -55,19 +55,6 @@ I build the data layer that powers quick-commerce decisions — from raw API ing
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Suyash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ss756&show_icons=true&theme=default&hide_border=true&title_color=3aaa35&icon_color=1f8a3b&text_color=24292e&bg_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ss756&layout=compact&hide_border=true&title_color=3aaa35&text_color=24292e&bg_color=ffffff)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ss756&theme=default&hide_border=true&ring=3aaa35&fire=1f8a3b&currStreakLabel=1f8a3b)
-
-</div>
-
----
 
 ## 🏗️ What I Build
 
